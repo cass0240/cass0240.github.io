@@ -20,7 +20,11 @@ body{
     img :hover {
 background-color: thistle; }
     
-    
+ul{ 
+    shape-image-threshold: calc(square); }
+    li{
+        box-shadow: cornflowerblue; }
+   
 
    
     
