@@ -17,6 +17,10 @@ body{
    a{ 
        background-color: thistle; }
    
+    img :hover {
+background-color: thistle; }
+    
+    
 
    
     
