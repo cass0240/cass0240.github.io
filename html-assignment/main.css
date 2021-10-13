@@ -14,8 +14,9 @@ body{
      a:hover{
         color: steelblue; }
        
-   img{
-       box-shadow: thistle; }
+   a{ 
+       background-color: thistle; }
+   
 
    
     
