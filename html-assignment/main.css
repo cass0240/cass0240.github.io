@@ -20,11 +20,8 @@ body{
     img :hover {
 background-color: thistle; }
     
-ul{ 
-    shape-image-threshold: calc(square); }
-    
-    li{
-        shape-image-threshold: calc(square); }
+ul{
+ style:="list-style-type:square"; }
 
    
 
