@@ -8,8 +8,7 @@ a{
  footer{
      background-color: lightpink; }
 
-     :visited{
-         color:red; }
-id{ 
-    box-shadow: silver; }
+     a:visited{
+         background-color: steelblue;
+
     
