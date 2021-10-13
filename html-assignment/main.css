@@ -21,7 +21,7 @@ body{
 background-color: thistle; }
 
 a ul{
-    list-style: symbols(square); }
+    list-style: square symbols(square) }
 
 
 
