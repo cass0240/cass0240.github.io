@@ -20,7 +20,8 @@ body{
     img :hover {
 background-color: thistle; }
 
-li{
-    list-style: square; }
+a li{
+    list-style: symbols(square); }
+
 
 
