@@ -1,7 +1,8 @@
 body{
     background-color: lavender; }
  
- style> a text-decoration:none /style>
+a{ text-decoration:none; 
+}
 
  footer{
      background-color: lightpink; }
