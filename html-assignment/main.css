@@ -20,7 +20,8 @@ body{
     img :hover {
 background-color: thistle; }
 
-
+ul{
+    list-style: square }
 
 
 
