@@ -7,11 +7,11 @@ h1{
     position: relative; top: 500px;
 }
 
+body{
+    background-color: #aad4cf;
+}
 
 html{
     background-color: cadetblue;
 }
 
-body{
-      color: #aad4cf;
-}
