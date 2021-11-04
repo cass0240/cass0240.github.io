@@ -8,6 +8,10 @@ h1{
 }
 
 
-body{
+html{
     background-color: cadetblue;
+}
+
+body{
+    background-color: #aad4cf;
 }
