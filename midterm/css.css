@@ -10,3 +10,12 @@ html{
 h1{
     color: white
 }
+
+div h1{
+
+}
+
+div{
+    position: relative; 
+    top right: 30px;
+}
