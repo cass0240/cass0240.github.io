@@ -17,7 +17,10 @@ div h1{
 }
 
 div{
-    width: 100wv;
+    position: absolute;
+transform: translate(-50,-50
+top: 100%;
+left: 100%;
    
 }
 
@@ -25,10 +28,4 @@ nav{
     
 }
 
-a{
 
-float: left;
-text-align: center;
-padding: 14px 16px;
- font-size: 20px;
-}
